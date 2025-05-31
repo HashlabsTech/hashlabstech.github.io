@@ -1,2 +1,1 @@
-# site
-Website for Hashlabs Tech
+ Welcome to hashlabs
